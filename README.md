@@ -1,2 +1,2 @@
-# prep-course-henry
-este es un repositorio del modulo 2 del prep course de henry
+Victor cahuaciri
+este proyecto es una prueba de como crear un repositorio y clonarlo
